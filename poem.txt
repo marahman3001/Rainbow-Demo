@@ -1,6 +1,7 @@
 Violet
 Indigo
 Blue
+Green
 Yellow
 Red
 These are all colors in rainbow
