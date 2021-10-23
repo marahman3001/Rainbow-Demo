@@ -4,5 +4,7 @@ Blue
 Green
 Yellow
 Orange
+Unicorn
 Red
 These are all colors in rainbow
+I have added Unicorn in rainbow under unicorn branch
