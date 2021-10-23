@@ -6,7 +6,7 @@ Yellow
 Orange
 Unicorn
 Ponies
-Red
+Red-main
 These are all colors in rainbow
 I have added Unicorn in rainbow under unicorn branch and then added ponies
 Created ponies branch
