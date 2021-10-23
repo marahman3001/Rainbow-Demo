@@ -3,5 +3,6 @@ Indigo
 Blue
 Green
 Yellow
+Orange
 Red
 These are all colors in rainbow
